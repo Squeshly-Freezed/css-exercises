@@ -17,13 +17,8 @@ body {
   justify-content: space-between;
 }
 
+.header-right, 
 .header-left {
-  display: flex;
-  align-items: center;
-  gap: 16px;
-}
-
-.header-right {
   display: flex;
   align-items: center;
   gap: 16px;
@@ -63,5 +58,4 @@ ul {
   display: flex;
   gap: 16px;
   padding: 0;
-  margin: 0;
 }
